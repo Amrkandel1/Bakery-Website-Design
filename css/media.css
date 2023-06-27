@@ -1,0 +1,202 @@
+@media screen and (max-width:1650px) {
+    .container{
+        width: 90%;
+    }
+    .nav-list{
+        width: 60%;
+    }
+    
+}
+@media screen and (max-width:1300px){
+    .container4{
+        width: 95%;
+    }
+    .maindiv{
+        width: 90%;
+    }
+    .container5{
+        width: 90%;
+    }
+    .end-page-logo img{
+        width: 35%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .about-page-photo{
+        width: 40%;
+        display: flex;
+        align-items: center;
+     }
+     .container3{
+        width: 85%;
+     }
+     .about-page-photo{
+        width: 60%;
+     }
+     .inner-img{
+        width: 90%;
+     }
+     .about-page-content{
+        width: 50%;
+     }
+     .inner-content{
+        width: 100%;
+     }
+     .container6{
+        width: 90%;
+     }
+     .container7{
+        width: 85%;
+     }
+}
+@media screen and (max-width:1000px) {
+    .navbar{
+        background-color: #fff;
+    }
+    .container{
+        display: none;
+    }
+    .nav-list-container{
+        display: none;
+    }
+    .media-q{
+        display:flex;
+    }
+}
+@media screen and (max-width:992px){
+    .inner-lists{
+        flex-wrap: wrap;
+    }
+    .cont{
+        width: 50%;
+    }
+    .cont3{
+        margin-top: 1.25rem;
+    }
+    .cont4{
+        margin-top: 1.25rem;
+    }
+    .end-page-logo img{
+        width: 45%;
+    }  
+}
+@media screen and (max-width:692px) {
+    .nav-logo2 img{
+        width: 65%;
+    }
+}
+@media screen and (max-width:768px) {
+    .container3{
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    .inner-img{
+        width: 80%;
+    }
+    .about-page-photo{
+        width: 100%;
+    }
+    .about-page-content{
+        width: 100%;
+    }
+    .inner-content{
+        width: 80%;
+        margin: auto;
+        margin-top: 0.625rem;
+    }
+    .maindiv{
+        flex-wrap: wrap;
+        width: 75%;
+    }
+    .ourlocation-content{
+        width: 100%;
+    }
+    .ourlocation-photo{
+        width: 100%;
+        margin-top: 1.25rem;
+    }
+    .ourbaking-page-photos{
+        flex-wrap: wrap;
+    }
+    .container5{
+        width: 75%;
+    }
+    .photo{
+        width: 100%;
+    }
+    .photo2{
+        margin-top: 1.875rem;
+    }
+    .photo3{
+        margin-top: 1.875rem;
+    }
+    .container6{
+        width: 85%;
+        flex-wrap: wrap;
+     }
+     .contactinfo-page-content{
+        width: 100%;
+     }
+     .contactinfo-page-map{
+        width: 100%;
+        margin-top: 1.875rem;
+     }
+     .inner-lists{
+        flex-wrap: wrap;
+    }
+    .cont{
+        width: 100%;
+    }
+    .cont2{
+        margin-top: 1.25rem;
+    }
+    .end-page-logo img{
+        width: 55%;
+    }
+}
+@media screen and (max-width:500px) {
+    .nav-logo2{
+        width: 60%;
+    }
+    .nav-logo2 img{
+        width: 75%;
+    }
+    .list-icon{
+        width: 30%;
+    }
+    .container2{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .container3{
+        width: 95%;
+    }
+    .inner-img{
+        width: 95%;
+    }
+    .inner-content{
+        width: 95%;
+        margin: auto;
+        margin-top: 0.625rem;
+    }
+    .maindiv{
+        width: 100%;
+    }
+    .container4{
+        width: 90%;
+    }
+    .container5{
+        width: 90%;
+    }
+    .container6{
+        width: 90%;
+     }
+     .container7{
+        width: 90%;
+     }
+     .end-page-logo img{
+        width: 80%;
+    }
+}
